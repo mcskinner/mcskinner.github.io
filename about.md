@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I write code. I write about writing code. I tend to build things that make clever use of data to solve problems that annoy me the most.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[blog@mcskinner.com](mailto:blog@mcskinner.com)
