@@ -31,3 +31,5 @@ var store = createStore(
   composeEnhancers(applyMiddleware(thunkMiddleware))
 );
 ```
+
+This has nothing to do with `react-server`, it's just normal Redux modularity gone wild and it confused me a bit.
